@@ -1,0 +1,16 @@
+project_id = "uqqajzfkqushviwuayng"
+
+[functions.archive-monthly-data]
+verify_jwt = false
+
+[functions.auth-service]
+verify_jwt = false
+
+[functions.billing-service]
+verify_jwt = false
+
+[functions.notification-service]
+verify_jwt = false
+
+[functions.integration-service]
+verify_jwt = false
